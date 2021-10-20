@@ -1,0 +1,7 @@
+C:\ITPlusPoint\Send_Email\bin\Debug\Send_Email.exe.config
+C:\ITPlusPoint\Send_Email\bin\Debug\Send_Email.exe
+C:\ITPlusPoint\Send_Email\bin\Debug\Send_Email.pdb
+C:\ITPlusPoint\Send_Email\obj\Debug\Send_Email.csprojAssemblyReference.cache
+C:\ITPlusPoint\Send_Email\obj\Debug\Send_Email.csproj.CoreCompileInputs.cache
+C:\ITPlusPoint\Send_Email\obj\Debug\Send_Email.exe
+C:\ITPlusPoint\Send_Email\obj\Debug\Send_Email.pdb
