@@ -109,7 +109,7 @@ namespace Send_Email
 
 
             CommunicationUtilityService oCommunicationUtilityService = new CommunicationUtilityService();
-            oCommunicationUtilityService.EmailSender("khitesh932@gmail.com", toemail,ccemail,bccemail,"Testing for functionality 3","Testing email for multiple cc,BCC & Attachment", Mail_Attachment, "Hitesh", "smtp.gmail.com",true, "Khitesh123",587);
+            oCommunicationUtilityService.EmailSender("khitesh932@gmail.com", toemail,ccemail,bccemail,"Testing for functionality 3","Testing email for multiple cc,BCC & Attachment", Mail_Attachment, "Hitesh", "smtp.gmail.com",true, "",587);
 
 
         }
