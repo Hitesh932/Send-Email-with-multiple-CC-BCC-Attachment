@@ -102,10 +102,10 @@ namespace Send_Email
     {
         static void Main(string[] args)
         {
-            string[] toemail = { "swapan.acharya@itpluspoint.com" };
-            string[] ccemail = {"hiteshmalik.itpp@outlook.com" };
-            string[] bccemail = { "upasana.majhi.itpp@outlook.com" };
-            string[] Mail_Attachment = { @"C:\ITPlusPoint\Category Data.docx" , @"C:\ITPlusPoint\Parts3.jpg" };
+            string[] toemail = { "" };
+            string[] ccemail = {"" };
+            string[] bccemail = { "" };
+            string[] Mail_Attachment = { @"C:\ITt\Category Data.docx" , @"C:\sPoint\Parts3.jpg" };
 
 
             CommunicationUtilityService oCommunicationUtilityService = new CommunicationUtilityService();
